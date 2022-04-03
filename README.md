@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kanujoa
-- 👀 I’m interested in python and application development
-- 🌱 I’m currently learning python
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate with anyone
 - 📫 How to reach me : youbin0105@gmail.com
 
