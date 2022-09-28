@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kanujoa
-- 👀 I’m interested in
+- 👀 I’m interested in python
 - 🌱 I’m currently 
 - 💞️ I’m looking to 
 - 📫 How to reach me : youbin0105@gmail.com
