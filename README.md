@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=kanujoa's_github&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=WELCOME&fontSize=50)
 
 <h1><div align = "center">:eyes: TECH :eyes:</div></h1>
 </br>
