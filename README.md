@@ -45,6 +45,8 @@
 <br/><br/><br/>
 
 <h1><div align = "center">:computer:  Activity  :computer:</div></h1>
+<br/>
+
 <div align = "center">
     <ul id = "second_li">
         <li> 📌 Way to Use Markdown --> https://github.com/kanujoa/How_to_Use_Markdown </li> 
