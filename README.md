@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=WELCOME&fontSize=50)
 
+<link rel="stylesheet" href="./readme_css.css">
+
 <h1><div align = "center">:eyes:  TECH  :eyes:</div></h1>
 </br>
 
