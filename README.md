@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=WELCOME&fontSize=50)
 
-<h1><div align = "center">:eyes: TECH :eyes:</div></h1>
+<h1><div align = "center">:eyes:  TECH  :eyes:</div></h1>
 </br>
 
 <div align = "center">
@@ -17,7 +17,7 @@
 </div>
 </br></br></br>
 
-<h1><div align = "center">:busts_in_silhouette:TODAY'S VISIT:busts_in_silhouette:</div></h1>
+<h1><div align = "center">:busts_in_silhouette:  TODAY'S VISIT  :busts_in_silhouette:</div></h1>
 </br>
 
 <div align = "center">
@@ -29,17 +29,33 @@
 </br>
 
 <div align = "center">
-    <li> 👋 Hi, I’m @kanujoa </li>
-    </br>
-    <li> 👀 I’m interested in web development </li>
-    </br>
-    <li> 🌱 I’m currently doing HTML/CSS </li>
-    </br>
-    <li> 💞️ I’m looking to </li>
-    </br>
-    <li> 📫 How to reach me : youbin0105@gmail.com </li>
-    </br>
+    <ul id = "first_li">
+        <li> 👋 Hi, I’m @kanujoa </li>
+        </br>
+        <li> 👀 I’m interested in Web Development </li>
+        </br>
+        <li> 🌱 I’m currently doing HTML/CSS/Javascript </li>
+        </br>
+        <li> 💞️ I’m looking for someone who can study with me </li>
+        </br>
+        <li> 📫 How to reach me : youbin0105@gmail.com </li>
+        </br>
+    </ul>
 </div>
+<br/><br/><br/>
+
+<h1><div align = "center">:computer:  Activity  :computer:</div></h1>
+<div align = "center">
+    <ul id = "second_li">
+        <li> 📌 Way to Use Markdown --> https://github.com/kanujoa/How_to_Use_Markdown </li> 
+        <br/>
+        <li> 📌 2022 Open Source Software Lecture Summary --> https://github.com/kanujoa/OSS_lecture_summary </li>
+        <br/>
+        <li> 📌 Team Github --> https://github.com/OSS3TEAM </li>
+        <br/>
+    </ul>
+</div>
+
 
 <!---
 kanujoa/kanujoa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
