@@ -44,11 +44,11 @@
 <br/>
 
 <div align = "center">
-    <span> 📌 Way to Use Markdown --> https://github.com/kanujoa/How_to_Use_Markdown </span> 
+    <span> 📌 <a href = "https://github.com/kanujoa/How_to_Use_Markdown"> Way to Use Markdown </span> 
     <br/><br/>
-    <span> 📌 2022 Open Source Software Lecture Summary --> https://github.com/kanujoa/OSS_lecture_summary </span>
+    <span> 📌 <a href = "https://github.com/kanujoa/OSS_lecture_summary"> 2022 Open Source Software Lecture Summary </span>
     <br/><br/>
-    <span> 📌 Team Github --> https://github.com/OSS3TEAM </span>
+    <span> 📌 <a href = "https://github.com/OSS3TEAM"> Team Github </span>
     <br/><br/>
 </div>
 
