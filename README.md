@@ -40,7 +40,7 @@
 </div>
 <br/><br/><br/>
 
-<h1><div align = "center">:computer:  Activity  :computer:</div></h1>
+<h1><div align = "center">:computer:  ACTIVITY  :computer:</div></h1>
 <br/>
 
 <div align = "center">
