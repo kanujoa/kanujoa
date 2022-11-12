@@ -47,10 +47,6 @@
     <br/><br/>
     <span> 👀 I’m interested in Web Development </span>
     <br/><br/>
-    <span> 🌱 I’m currently doing HTML/CSS/Javascript </span>
-    <br/><br/>
-    <span> 💞️ I’m looking for someone who can study with me </span>
-    <br/><br/>
     <span> 📫 How to reach me : youbin0105@gmail.com </span>
     <br/><br/>
 </div>
