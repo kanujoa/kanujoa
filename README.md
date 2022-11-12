@@ -1,5 +1,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=auto&amp;height=300&amp;section=header&amp;text=WELCOME&amp;fontSize=50" width="1200" height="350" alt="header" style="-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline">
 
+<a href="https://github.com/kanujoa">
+    <img src="https://github-readme-stats.vercel.app/api?username=kanujoa&amp;theme=buefy&amp;show_icons=true" alt="kanujoa&#39;s GitHub stats">
+</a>
+
+<a href="https://github.com/kanujoa">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanujoa&amp;layout=compact" alt="Top Langs">
+</a>
+<br/><br/><br/>
+
 <h1><div align = "center">:eyes:  TECH  :eyes:</div></h1>
 <br/>
 
@@ -26,14 +35,6 @@
     <a href = "https://github.com/kanujoa/OSS_lecture_summary">
         <img src="https://img.shields.io/badge/Git-F05032?style=round-square&amp;logo=Github&amp;logoColor=white" alt="Git">
     </a>                                                                                     
-</div>
-<br/><br/><br/>
-
-<h1><div align = "center">:busts_in_silhouette:  TODAY'S VISIT  :busts_in_silhouette:</div></h1>
-<br/>
-
-<div align = "center">
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkanujoa%2Fkanujoa&count_bg=%23FFD0E2&title_bg=%23FFC1C1&icon=&icon_color=%23E8CFEC&title=hits&edge_flat=false"/></a>
 </div>
 <br/><br/><br/>
 
