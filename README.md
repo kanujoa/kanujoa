@@ -1,11 +1,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=auto&amp;height=300&amp;section=header&amp;text=WELCOME&amp;fontSize=50" width="1200" height="350" alt="header" style="-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline">
 
-<a href="https://github.com/kanujoa">
-    <img src="https://github-readme-stats.vercel.app/api?username=kanujoa&amp;theme=buefy&amp;show_icons=true" alt="kanujoa&#39;s GitHub stats">
-</a>
-<a href="https://github.com/kanujoa">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanujoa&amp;" alt="Top Langs">
-</a>
+<div align = "center">
+    <a href="https://github.com/kanujoa">
+        <img src="https://github-readme-stats.vercel.app/api?username=kanujoa&amp;theme=buefy&amp;show_icons=true" alt="kanujoa&#39;s GitHub stats">
+    </a>
+    <a href="https://github.com/kanujoa">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanujoa&amp;" alt="Top Langs">
+    </a>
+</div>
 <br/><br/><br/>
 
 <h1><div align = "center">:eyes:  TECH  :eyes:</div></h1>
