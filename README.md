@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=auto&amp;height=300&amp;section=header&amp;text=WELCOME&amp;fontSize=50" width="1200" height="350" alt="header" style="-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline">
+![header](https://capsule-render.vercel.app/api?type=rounded&height=150&text=YuBeen's_github&stroke=000000&fontColor=F0F8FF&animation=fadeIn&fontFamily)
 
 <div align = "center">
     <a href="https://github.com/kanujoa">
@@ -15,26 +15,26 @@
 
 <div align = "center">
     <a href = "https://www.python.org">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=round-square&amp;logo=Python&amp;logoColor=white" width="70" height="20" alt="Python" style="-aw-            left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=Python&amp;logoColor=white" width="100" height="30" alt="Python" style="-aw-            left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline">
     </a>
     <a href = "https://github.com/kanujoa/HTML-CSS-practice">
-        <img src="https://img.shields.io/badge/Html-E34F26?style=round-square&amp;logo=HTML5&amp;logoColor=white" width="57" height="20" alt="Html" style="-aw-left-            pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline">
+        <img src="https://img.shields.io/badge/Html-E34F26?style=flat-square&amp;logo=HTML5&amp;logoColor=white" width="87" height="30" alt="Html" style="-aw-left-            pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline">
     </a>
     <a href = "https://github.com/kanujoa/HTML-CSS-practice">
-        <img src="https://img.shields.io/badge/Css-1572B6?style=round-square&amp;logo=CSS3&amp;logoColor=white" width="55" height="20" alt="CSS" style="-aw-left-                pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline">
+        <img src="https://img.shields.io/badge/Css-1572B6?style=flat-square&amp;logo=CSS3&amp;logoColor=white" width="85" height="30" alt="CSS" style="-aw-left-                pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline">
     </a>
     <a href = "https://github.com/kanujoa/Javascript-practice">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=round-square&amp;logo=JavaScript&amp;logoColor=black" width="85" height="20" alt="JS" style="-            aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=JavaScript&amp;logoColor=black" width="115" height="30" alt="JS" style="-            aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline">
     </a>
 </div>
 <br/>
 
 <div align = "center">    
     <a href = "https://github.com/kanujoa">
-        <img src="https://img.shields.io/badge/Github-181717?style=round-square&amp;logo=Github&amp;logoColor=white" alt="Github">
+        <img src="https://img.shields.io/badge/Github-181717?style=flat-square&amp;logo=Github&amp;logoColor=white" height="30" alt="Github">
     </a>
     <a href = "https://github.com/kanujoa/OSS_lecture_summary">
-        <img src="https://img.shields.io/badge/Git-F05032?style=round-square&amp;logo=Github&amp;logoColor=white" alt="Git">
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=Github&amp;logoColor=white" height="30" alt="Git">
     </a>                                                                                     
 </div>
 <br/><br/><br/>
