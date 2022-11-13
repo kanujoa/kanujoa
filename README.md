@@ -31,7 +31,7 @@
     <img src="https://img.shields.io/badge/Github-181717?style=flat-square&amp;logo=Github&amp;logoColor=white" height="30" alt="Github">
 </a>
 <a href = "https://github.com/kanujoa/OSS_lecture_summary">
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=Github&amp;logoColor=white" height="30" alt="Git">
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=Git&amp;logoColor=white" height="30" alt="Git">
 </a>
 </div>
 <br/><br/><br/>
