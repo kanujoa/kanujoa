@@ -1,11 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&height=150&text=YuBeen's_github&stroke=000000&fontColor=F0F8FF&animation=fadeIn&fontFamily)
+<img src="https://capsule-render.vercel.app/api?type=rounded&amp?height=150&amp;text=YuBeen&#39;s_github&amp;stroke=000000&amp;fontColor=F0F8FF&amp;animation=fadeIn&amp;fontFamily" alt="header">
 
 <div align = "center">
     <a href="https://github.com/kanujoa">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanujoa&amp;" alt="Top Langs">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanujoa&amp;layout=compact" alt="Top Langs">
     </a>
     <a href="https://github.com/kanujoa">
-        <img src="https://github-readme-stats.vercel.app/api?username=kanujoa&amp;theme=buefy&amp;show_icons=true" alt="kanujoa&#39;s GitHub stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=kanujoa&amp;theme=buefy&amp;show_icons=true;card_width=500;height=300" alt="kanujoa&#39;s GitHub stats">
     </a>
 </div>
 <br/>
