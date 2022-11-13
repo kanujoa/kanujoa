@@ -2,10 +2,10 @@
 
 <div align = "center">
     <a href="https://github.com/kanujoa">
-        <img src="https://github-readme-stats.vercel.app/api?username=kanujoa&amp;theme=buefy&amp;show_icons=true" alt="kanujoa&#39;s GitHub stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanujoa&amp;" alt="Top Langs">
     </a>
     <a href="https://github.com/kanujoa">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanujoa&amp;" alt="Top Langs">
+        <img src="https://github-readme-stats.vercel.app/api?username=kanujoa&amp;theme=buefy&amp;show_icons=true" alt="kanujoa&#39;s GitHub stats">
     </a>
 </div>
 <br/>
