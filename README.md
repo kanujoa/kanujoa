@@ -16,16 +16,16 @@
 </br>
 
 <a href = "https://www.python.org">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=Python&amp;logoColor=white" width="100" height="30" alt="Python" style="-aw-            left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=Python&amp;logoColor=white" width="97" height="30" alt="Python" style="-aw-            left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline">
 </a>
 <a href = "https://github.com/kanujoa/HTML-CSS-practice">
-    <img src="https://img.shields.io/badge/Html-E34F26?style=flat-square&amp;logo=HTML5&amp;logoColor=white" width="87" height="30" alt="Html" style="-aw-left-            pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline">
+    <img src="https://img.shields.io/badge/Html-E34F26?style=flat-square&amp;logo=HTML5&amp;logoColor=white" width="83" height="30" alt="Html" style="-aw-left-            pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline">
 </a>
 <a href = "https://github.com/kanujoa/HTML-CSS-practice">
-    <img src="https://img.shields.io/badge/Css-1572B6?style=flat-square&amp;logo=CSS3&amp;logoColor=white" width="85" height="30" alt="CSS" style="-aw-left-                pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline">
+    <img src="https://img.shields.io/badge/Css-1572B6?style=flat-square&amp;logo=CSS3&amp;logoColor=white" width="77" height="30" alt="CSS" style="-aw-left-                pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline">
 </a>
 <a href = "https://github.com/kanujoa/Javascript-practice">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=JavaScript&amp;logoColor=black" width="115" height="30" alt="JS" style="-            aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=JavaScript&amp;logoColor=black" width="120" height="30" alt="JS" style="-            aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline">
 </a>
 <a href = "https://github.com/kanujoa">
     <img src="https://img.shields.io/badge/Github-181717?style=flat-square&amp;logo=Github&amp;logoColor=white" height="30" alt="Github">
