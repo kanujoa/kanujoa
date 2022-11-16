@@ -34,7 +34,19 @@
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=Git&amp;logoColor=white" height="30" alt="Git">
 </a>
 </div>
-<br/><br/><br/>
+<br/><br/>
+
+<div align = "center">
+<h3>:busts_in_silhouette: visitors :busts_in_silhouette:
+</div>
+<br/>
+    
+<div align = "center">  
+    <a href="https://github.com/kanujoa">
+        <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23EDB9F2&title_bg=%23FFD2DF&icon=&icon_color=%23929292&title=visitors&edge_flat=true" width="230" height="30">
+    </a>
+</div>
+<br/><br/>
 
 <h1><div align = "center">:computer:  ACTIVITY  :computer:</div></h1>
 
