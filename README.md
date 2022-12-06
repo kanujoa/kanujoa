@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rounded&amp?height=150&amp;text=YuBeen&#39;s_github&amp;stroke=000000&amp;fontColor=F0F8FF&amp;animation=fadeIn&amp;fontFamily" alt="header">
 <br/>
 
-<div align = "center">
+<div align = "center"> 
     <a href="https://github.com/kanujoa">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanujoa&amp" alt="Top Langs">
     </a>
