@@ -2,7 +2,7 @@
 <br/>
 
 <div align = "center"> 
-    <a href="https://github.com/kanujoa">
+    <a href="https://github.com/kanujoa">  
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanujoa&amp" alt="Top Langs">
     </a>
     <a href="https://github.com/kanujoa">
