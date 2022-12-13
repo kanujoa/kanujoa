@@ -8,7 +8,7 @@
     <a href="https://github.com/kanujoa">
         <img src="https://github-readme-stats.vercel.app/api?username=kanujoa&amp;show_icons=true&amp;theme=buefy" alt="Anurag&#39;s GitHub stats"> 
     </a>
-</div>
+</div>  
 <br/>
  
 <div align = "center">
