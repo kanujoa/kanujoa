@@ -15,7 +15,7 @@
 <h3>:eyes: tech :eyes:</h3>
 </br>
 
-<a href = "https://www.python.org">
+<a href = "https://github.com/kanujoa/programmers_school.git">
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=Python&amp;logoColor=white" width="97" height="30" alt="Python" style="-aw-            left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline">
 </a>
 <a href = "https://github.com/kanujoa/HTML-CSS-practice">
