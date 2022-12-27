@@ -46,16 +46,7 @@
         <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkanujoa&count_bg=%23E7BFEC&title_bg=%23FCDBDB&icon=&icon_color=%23A7A7A7&title=visitors&edge_flat=true" width="140" height="30">
     </a>
 </div>
-<br/><br/>
-
-<h1><div align = "center">:computer:  ACTIVITY  :computer:</div></h1>
-
-<div align = "center">
-    <h3> 📌 <a href = "https://github.com/kanujoa/OSS_lecture_summary"> OSS Individual Assignment </h3>
-    <h3> 📌 <a href = "https://github.com/OSS3TEAM"> OSS 3 Team Github </h3>
-</div>
-
-
+    
 <!---
 kanujoa/kanujoa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
